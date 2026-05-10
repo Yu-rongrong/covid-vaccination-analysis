@@ -1,30 +1,3 @@
-# COVID-19 Vaccination Analysis
-
-## Project Overview
-Analyzed global COVID-19 vaccination data to identify countries with the highest fully vaccinated rates.
-
-## Data Source
-- Our World in Data (OWID) COVID-19 vaccination dataset
-- 100,000+ records covering 200+ countries
-
-## Tools Used
-- Python (Pandas, Matplotlib)
-- Google Colab
-
-## Key Insights
-| Rank | Country | Vaccination Rate |
-|------|---------|------------------|
-| 1 | Cuba | 92.5% |
-| 2 | Chile | 91.8% |
-| 3 | China | 88.1% |
-| 4 | South Korea | 87.5% |
-| 5 | Spain | 85.3% |
-
-## Visualization
-![Chart](chart.png)
-
-## Code
-```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
